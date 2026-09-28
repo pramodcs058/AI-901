@@ -32,3 +32,8 @@
 - https://microsoftlearning.github.io/mslearn-ai-concepts/Instructions/exercises/06-info-extraction.html
 
 ---
+
+## Demo - 7: Explore retrieval augmented generation (RAG)
+- https://microsoftlearning.github.io/mslearn-ai-concepts/Instructions/exercises/07-explore-rag.html
+  
+---
