@@ -1,5 +1,4 @@
-# AI-901: Azure AI Fundamentals  
-## Industry-Based AI Workload Selection Case Studies
+# Azure AI - Industry-Based AI Workload Case Studies
 
 ### Team Assignment
 
